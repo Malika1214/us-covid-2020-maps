@@ -18,10 +18,10 @@ Both maps use the Albers Equal Area projection, which is appropriate for nationa
 The maps can be accessed using the following URLs:
 
 - **Choropleth Map – COVID-19 Case Rates**  
-  https://Malika1214.github.io/us-covid-2020-maps/map1.html
+  https://Malika1214.github.io/us-covid-2020-maps/map2.html
 
 - **Proportional Symbol Map – COVID-19 Total Cases**  
-  https://Malika1214.github.io/us-covid-2020-maps/map2.html
+  https://Malika1214.github.io/us-covid-2020-maps/map1.html
 
 ---
 
@@ -135,3 +135,4 @@ Academic project created for educational purposes.
 ## License
 
 This project is intended for academic use only. All data sources remain the property of their respective owners.
+
