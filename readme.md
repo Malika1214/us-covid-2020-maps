@@ -122,7 +122,12 @@ us-covid-2020-maps
 Screenshots of both maps are included in the `img` directory:
 
 - Choropleth map showing COVID-19 case rates by county
+
+![COVID-19 Case Rates Map](img/map2_screenshot.jpg)
+
 - Proportional symbol map showing total COVID-19 cases by county
+
+![COVID-19 Case Rates Map](img/map1_screenshot.jpg)
 
 These images provide a visual overview of the project and its primary cartographic outputs.
 
@@ -148,5 +153,6 @@ Academic project created for educational purposes.
 ## License
 
 This project is intended for academic use only. All data sources remain the property of their respective owners.
+
 
 
