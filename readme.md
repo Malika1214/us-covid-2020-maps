@@ -88,18 +88,31 @@ The following libraries and technologies were used in this project:
 The repository is organized as follows:
 
 us-covid-2020-maps
+
 │ map1.html
+
 │ map2.html
+
 │ readme.md
+
 ├─assets
+
 │ us-covid-2020-counts.geojson
+
 │ us-covid-2020-rates.geojson
+
 ├─css
+
 │ styles.css
+
 ├─img
+
 │ map1_screenshot.png
+
 │ map2_screenshot.png
+
 └─js
+
   main.js
 
 ---
@@ -135,4 +148,5 @@ Academic project created for educational purposes.
 ## License
 
 This project is intended for academic use only. All data sources remain the property of their respective owners.
+
 
