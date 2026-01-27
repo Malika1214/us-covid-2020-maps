@@ -144,8 +144,8 @@ These images provide a visual overview of the project and its primary cartograph
 
 ## Author
 
-Malaika  
-Web and Mobile GIS – Lab 3
+Malika Ali  
+GEOG 458 A Wi 26: Advanced Digital Geographies – Lab 3
 Academic project created for educational purposes.
 
 ---
@@ -153,6 +153,7 @@ Academic project created for educational purposes.
 ## License
 
 This project is intended for academic use only. All data sources remain the property of their respective owners.
+
 
 
 
